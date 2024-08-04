@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Simple React load more wrapper component - Wrap around any list of elements.",
   "main": "./dist/cjs/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RickyGoacher/react-loadmore.git"
+},
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
   "files": [

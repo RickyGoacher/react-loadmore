@@ -9,23 +9,17 @@
     "/dist"
   ],
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c --bundleConfigAsCjs"
   },
   "keywords": [
     "React",
     "Loadmore",
-    "load",
-    "more",
-    "items",
-    "Loadmore",
-    "wrapper",
-    "Load",
-    "more",
-    "component",
-    "show",
-    "less",
-    "show",
-    "more"
+    "load more items",
+    "Loadmore wrapper",
+    "Load more component",
+    "show less",
+    "show more",
+    "React loadmore"
   ],
   "author": "Ricky Goacher",
   "license": "ISC",
